@@ -1,0 +1,9 @@
+Package: winsor
+Title: winsorized mean
+Version: 0.1
+Authors@R: "Guy Freeman <first.last@example.com> [aut, cre]"
+Description: Cal winsorised mean
+Depends:
+    R (>= 3.1.0)
+License: GPL
+LazyData: true
